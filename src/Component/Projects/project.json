@@ -1,0 +1,313 @@
+{
+    "projects": [
+        {
+            "name": "Ezwage",
+            "logo": "/images/web/Ezwage/Dashboard.jpg",
+            "about": "Ezwage is a platform that facilitates wage management for various companies by onboarding them onto its system.                                                                                                             Through Ezwage, companies can efficiently manage and distribute wages to their employees. This platform streamlines the process of wage management, making it easier for companies to handle payroll tasks and ensure timely payment to their workforce. Additionally, Ezwage provides employees with a convenient means to access and manage their earnings. Overall, Ezwage serves as a valuable tool for both employers and employees in the realm of wage management.",
+            "description": "Ezwage is a comprehensive wage management platform designed to streamline payroll processes for businesses of all sizes. By leveraging cutting-edge technology, Ezwage simplifies the complex task of managing wages and ensures timely and accurate payments to employees. Through Ezwage, companies can easily onboard their workforce and set up customized wage structures tailored to their specific needs. The platform offers a user-friendly interface that allows employers to efficiently manage employee information, track working hours, calculate wages, and generate payroll reports with ease. One of the key features of Ezwage is its ability to integrate with various payment systems, allowing for seamless and secure wage distribution. Whether it's direct deposit, paper checks, or digital payment methods, Ezwage supports multiple payment options to suit the preferences of both employers and employees. Furthermore, Ezwage prioritizes data security and compliance with industry regulations, ensuring that sensitive employee information remains protected at all times. With robust encryption protocols and regular security updates, Ezwage provides peace of mind to businesses handling sensitive financial data. For employees, Ezwage offers a convenient portal where they can access their wage information, view pay stubs, and manage their payment preferences. This empowers employees to have greater visibility and control over their earnings, enhancing overall satisfaction and engagement in the workplace. Ezwage is a reliable and efficient solution for businesses seeking to streamline their wage management processes and ensure prompt and accurate payments to their employees.",
+            "services": [
+                "Integration-Solution",
+                "Mobile-Development",
+                "SaaS-Product-Development",
+                "Quality-Assurance",
+                "UI&UX-Development"
+            ],
+            "features": [
+                {
+                    "name": "Customized Wage Structures",
+                    "description": "Ezwage allows businesses to set up customized wage structures tailored to their specific needs, including hourly rates, salaries, bonuses, and deductions."
+                },
+                {
+                    "name": "Wage Calculation and Processing",
+                    "description": "Ezwage automates the calculation of wages based on hours worked, overtime, and any other relevant factors. It streamlines the process of processing wages, ensuring accuracy and timeliness in payments."
+                },
+                {
+                    "name": "Payment Integration",
+                    "description": "Ezwage integrates with various payment systems, allowing for seamless and secure wage distribution through direct deposit, paper checks, or digital payment methods."
+                },
+                {
+                    "name": "Payroll Reporting",
+                    "description": "The platform generates comprehensive payroll reports, providing businesses with valuable insights into wage expenditures, tax deductions, and other relevant metrics for financial planning and analysis."
+                }
+            ],
+            "images": [
+                "/images/web/Ezwage/Dashboard.jpg",
+                "/images/web/Ezwage/Single EmployeeTransaction.jpg",
+                "/images/web/Ezwage/Create Employee.jpg",
+                "/images/web/Ezwage/Employee Profile.jpg",
+                "/images/web/Ezwage/Comapnies.jpg",
+                "/images/web/Ezwage/Create Employee.jpg",
+                "/images/web/Ezwage/Company'sProfile.jpg",
+                "/images/web/Ezwage/Add Admin.jpg",
+                "/images/web/Ezwage/Transactions.jpg",
+                "/images/web/Ezwage/Reports Filter.jpg",
+                "/images/web/Ezwage/Support.jpg",
+                "/images/web/Ezwage/View Profile.jpg"
+            ]
+        },
+        {
+            "services": [
+                "Integration-Solution",
+                "UI&UX-Development"
+            ],
+            "name": "Gateless",
+            "logo": "/images/web/Gateless/Dashboard.png",
+            "about": "Gateless is a revolutionary platform designed to bring together songwriters, composers, and singers in a collaborative and innovative environment.                                                                          Breaking down traditional barriers, Gateless empowers users to create, share, and experience music in entirely new ways. With a focus on fostering connections and creativity, Gateless redefines the music industry landscape by providing a seamless platform for artists to collaborate, showcase their talent, and engage with audiences worldwide.",
+            "description": "Gateless is a cutting-edge platform that connects songwriters, composers, and singers, enabling them to collaborate, share, and showcase their music effortlessly. Through intuitive features and a user-friendly interface, Gateless revolutionizes the way music is created and shared, allowing artists to transcend traditional boundaries and explore new creative possibilities. Gateless Premium has the ultimate toolkit for aspiring and established artists alike, offering an array of premium features designed to elevate your music career. With exclusive access to advanced functionalities and enhanced tools, Gateless Premium enables you to maximize your creative potential, connect with industry professionals, and reach new heights of success in the music industry.",
+            "features": [
+                {
+                    "name": "Collaborative Songwriting",
+                    "description": "Songwriters can collaborate with composers and invite singers to bring their lyrics to life, fostering a dynamic creative process."
+                },
+                {
+                    "name": "Chat Functionality",
+                    "description": "Seamless chat functionality allows users to communicate with each other, facilitating collaboration, feedback, and networking."
+                },
+                {
+                    "name": "Advanced Analytics",
+                    "description": "Gain valuable insights into your audience, track the performance of your songs and events, and make data-driven decisions with advanced analytics tools exclusive to Gateless Premium users."
+                },
+                {
+                    "name": "Integration with Stripe",
+                    "description": "Streamline your payment processes and manage your finances effortlessly with seamless integration with Stripe, ensuring secure transactions and hassle-free subscription management."
+                }
+            ],
+            "images": [
+                "/images/web/Gateless/Dashboard.png",
+                "/images/web/Gateless/Events.png",
+                "/images/web/Gateless/Dashboard-1.png",
+                "/images/web/Gateless/Music Dashboard.png",
+                "/images/web/Gateless/My Music.png",
+                "/images/web/Gateless/Playlist.png",
+                "/images/web/Gateless/Messages.png",
+                "/images/web/Gateless/Contacts.png"
+            ]
+        },
+        {
+            "name": "Dryject",
+            "services": [
+                "Integration-Solution",
+                "UI&UX-Development"
+            ],
+            "logo": "/images/web/DryJect/Yeatly-Breakdown.png",
+            "about": "DryJect is a comprehensive costing platform tailored specifically for the golf course industry.                                                                                                              With golf courses spread across various regions, maintaining pristine grass requires specialized machinery. ",
+            "description": [
+                "DryJect is a costing and billing platform that facilitates the seamless lending of machinery to vendors, who then utilize them to cut grass on golf courses. The platform calculates charges based on factors such as the area of grass cut, distance traveled by the machinery, and other pertinent variables. This ensures accurate and transparent billing for both the lending company and the vendor."
+            ],
+            "features": [
+                {
+                    "name": "Machinery Lending Management",
+                    "description": "DryJect streamlines the process of lending machinery to vendors, providing a centralized platform for managing equipment availability, reservations, and logistics."
+                },
+                {
+                    "name": "Customizable Reports",
+                    "description": "Administrators have access to customizable reports that provide insights into overall performance and trends across multiple parameters. These reports enable strategic planning and optimization of resources."
+                },
+                {
+                    "name": "Billing and Invoicing",
+                    "description": "The platform automates the billing and invoicing process, generating accurate invoices based on usage metrics and predefined pricing structures. This streamlines financial transactions and reduces administrative overhead."
+                }
+            ],
+            "images": [
+                "/images/web/DryJect/Yeatly-Breakdown.png",
+                "/images/web/DryJect/Account.png",
+                "/images/web/DryJect/monthly-jobs.png",
+                "/images/web/DryJect/Monthly-report.png"
+            ]
+        },
+        {
+            "name": "Payment gateway",
+            "services": [
+                "Integration-Solution",
+                "Mobile-Development",
+                "SaaS-Product-Development",
+                "Quality-Assurance",
+                "UI&UX-Development"
+            ],
+            "logo": "/images/web/EzwagePayment/Dashboard.jpg",
+            "about": "Payment Gateway system is designed to offer companies a cost-effective alternative to traditional banking methods for salary disbursements and financial transactions with employees.                                           Given the high cost associated with 1Link services, we offer our system to different companies to handle payments. The primary goal is to streamline the process and salary payments. Making it efficient and economical. ",
+            "description": [
+                "A Payment Gateway system serves as a cost-effective alternative to traditional banking methods for various financial transactions, including salary disbursements within companies. Unlike relying solely on services like 1Link, which can incur high costs, this system provides companies with an efficient and economical solution for handling payments. The primary aim of this Payment Gateway system is to streamline the process of salary payments, making it more efficient and cost-effective for businesses."
+            ],
+            "features": [
+                {
+                    "name": "Cost Optimization",
+                    "description": "Introduced cost-effective solutions that reduce transaction fee, providing significant savings compared to traditional banking methods."
+                },
+                {
+                    "name": "User-Friendly Interface",
+                    "description": "Enhanced the merchant interface to ensure a smooth and intuitive experience for both companies and employees using the platform."
+                },
+                {
+                    "name": "Merchant Portal",
+                    "description": "A dedicated Merchant Portal that displays and provides access to features like transaction history, search, top ups, and reports."
+                },
+                {
+                    "name": "Security",
+                    "description": "Secure your API integrations with multiple layers of authentication. Utilize JSON Web Token (JWT) based authorization and Multi-Factor Authentication (MFA) to ensure the legitimacy of requests and enhance the protection of merchant accounts. Implement IP Whitelisting to restrict API access to trusted sources and employ the grant type 'Client Credentials' for secure authentication during API integration. Additionally, prioritize data security by encrypting sensitive information, ensuring confidentiality and compliance with privacy standards."
+                }
+            ],
+            "images": [
+                "/images/web/EzwagePayment/Dashboard.jpg",
+                "/images/web/EzwagePayment/Merchant.jpg",
+                "/images/web/EzwagePayment/Merchant Details.jpg",
+                "/images/web/EzwagePayment/Add Merchant.jpg",
+                "/images/web/EzwagePayment/Transactions.jpg",
+                "/images/web/EzwagePayment/Wallet Ledger.jpg",
+                "/images/web/EzwagePayment/systemConfigration.jpg"
+            ]
+        },
+        {
+            "name": "YourGuide",
+            "services": [
+                "Integration-Solution",
+                "Mobile-Development",
+                "SaaS-Product-Development",
+                "Quality-Assurance",
+                "UI&UX-Development"
+            ],
+            "logo": "/images/web/yourguide/1.png",
+            "about": "There are always undoubted leaders, professionals in their field, experts of their product - that's us! Travel agency Verona-tour does not stand still,                                                                                 we work for you! We are developing our network, opening new offices, inspecting hotels and discovering new countries, and most importantly, we provide our tourists with the best service in Pakistan! ",
+            "description": [
+                "The existing website needed a facelift. Clunky navigation, outdated visuals, and limited interactivity hindered user engagement. We recognized the need for a fresh, intuitive interface that aligns with YourGuide's commitment to excellence."
+            ],
+            "features": [
+                {
+                    "name": "Enhanced User Experience",
+                    "description": "Streamline navigation, improve load times, and optimize responsiveness across devices."
+                },
+                {
+                    "name": " Visual Delight",
+                    "description": "Infuse the site with captivating imagery, showcasing breathtaking destinations."
+                },
+                {
+                    "name": "Interactive Features",
+                    "description": "Introduce interactive maps, personalized itineraries, and real-time chat support."
+                },
+                {
+                    "name": "Conversion Boost",
+                    "description": "Drive bookings and inquiries through seamless calls-to-action."
+                },
+                {
+                    "name": "Integration with Stripe",
+                    "description": "Streamline your payment processes and manage your finances effortlessly with seamless integration with Stripe, ensuring secure transactions and hassle-free subscription management."
+                }
+            ],
+            "images": [
+                "/images/web/yourguide/1.png",
+                "/images/web/yourguide/2.png",
+                "/images/web/yourguide/3.png",
+                "/images/web/yourguide/4.png",
+                "/images/web/yourguide/5.png",
+                "/images/web/yourguide/6.png",
+                "/images/web/yourguide/7.png",
+                "/images/web/yourguide/8.png",
+                "/images/web/yourguide/9.png",
+                "/images/web/yourguide/10.png",
+                "/images/web/yourguide/11.png",
+                "/images/web/yourguide/12.png"
+            ]
+        },
+        {
+            "name": "Timeque",
+            "services": [
+                "Integration-Solution",
+                "Mobile-Development"
+            ],
+            "logo": "/images/mobile/Timeque/1.png",
+            "about": "TimeQue: Your Business Solution. Get expert advice on-demand, tackle challenges efficiently. Ask anything, sort everything. Transform your business with ease!",
+            "description": [
+                "TimeQue is your app for addressing business challenges swiftly and effectively. Built for professionals seeking expert advice on-demand, this app empowers you to navigate through complexities effortlessly. Whether you're facing strategic dilemmas, operational hurdles, or seeking insights on industry trends, TimeQue connects you with seasoned experts who can provide the guidance you need.                "
+            ],
+            "features": [
+                {
+                    "name": "Direct Access to Experts",
+                    "description": "TimQ Queue breaks down barriers, allowing you to connect with experts in your domain effortlessly. Say goodbye to lengthy queues and waiting times – get the solutions you need in real-time."
+                },
+                {
+                    "name": " Versatile Communication Channels",
+                    "description": "Communicate on your terms! TimQ Queue supports messages, video calls, and audio interactions. Choose the mode that suits you best and engage with experts in a way that feels comfortable."
+                },
+                {
+                    "name": "Knowledge Enhancement",
+                    "description": "TimQ Queue is not just about troubleshooting – it's a knowledge hub. Connect with experts to broaden your understanding, gain insights, and stay ahead in your field.                    "
+                },
+                {
+                    "name": "Secure and Confidential",
+                    "description": "Your privacy matters. TimQ Queue ensures secure and confidential interactions between you and the experts. Discuss your concerns with confidence, knowing that your information is protected.                    "
+                },
+                {
+                    "name": "Integration with Stripe",
+                    "description": "Streamline your payment processes and manage your finances effortlessly with seamless integration with Stripe, ensuring secure transactions and hassle-free subscription management."
+                }
+            ],
+            "images": [
+                "/images/mobile/Timeque/1.png",
+                "/images/mobile/Timeque/2.png",
+                "/images/mobile/Timeque/3.png",
+                "/images/mobile/Timeque/4.png",
+                "/images/mobile/Timeque/5.png",
+                "/images/mobile/Timeque/6.png"
+            ]
+        },
+        {
+            "name": "Vvork Cloud Technologies",
+            "services": [
+                "Integration-Solution",
+                "Mobile-Development",
+                "SaaS-Product-Development",
+                "Quality-Assurance",
+                "UI&UX-Development"
+            ],
+            "logo": "/images/web/VvorkCloudTechnology/Vvork.png",
+            "about": "Vvork Cloud Technologies focuses on closing the gap in tech skills and productivity between developers and non-technical professionals.                                                                                            Our innovative courses are designed to support students in software development by providing comprehensive education in the latest programming technologies. Our curriculum, developed and refined over the past decade by experienced software developers and tech executives, aims to deliver effective learning experiences.",
+            "description": [
+                "Vvork Cloud Technologies apni inovative courses ke zariye developers aur non-technical professionals ke darmiyan tech hunar aur productivity ka fasla kam karne par tawajjo deti hai. Hamara curriculum, pichle das saalon mein tajroba kar chuke software developers aur tech executives ki team ke zariye tayar kiya gaya hai, jo ke sab se taaza programming technologies mein mukammal taleem faraham karne ka maqsad rakhta hai. Hamara maqsad efektiv tareeqon se sikhnay ka tajurba faraham karna hai."
+            ],
+            "features": [
+                {
+                    "name": "Innovative Courses",
+                    "description": "Our curriculum is designed to bridge the gap between developers and non-technical professionals through innovative and up-to-date courses."
+                  },
+                  {
+                    "name": "Comprehensive Education",
+                    "description": "We offer comprehensive education in the latest programming technologies to equip students with the skills needed in the rapidly evolving tech industry."
+                  },
+                  {
+                    "name": "Dynamic Curriculum",
+                    "description": "Our curriculum has been developed and optimized over the past decade by a team of experienced software developers and tech executives, ensuring relevance and effectiveness."
+                  },
+                  {
+                    "name": "Effective Teaching Methods",
+                    "description": "We strive to deliver effective learning experiences through dynamic teaching methods tailored to the needs of our students."
+                  },
+                  {
+                    "name": "Experienced Team",
+                    "description": "Our founding members, comprising seasoned software developers and tech executives, bring their extensive industry knowledge to the forefront, guiding students towards success in software development."
+                  },
+                  {
+                    "name": "Focus on Productivity",
+                    "description": "We aim to narrow the productivity gap between developers and non-technical professionals by providing training that enhances efficiency and collaboration in tech-related tasks."
+                  },
+                  {
+                    "name": "Bridging the Tech Skills Gap",
+                    "description": "Vvork Cloud Technologies is dedicated to addressing the tech skills gap by offering courses that empower individuals to thrive in the digital age."
+                  }
+            ],
+            "images": [
+                "/images/web/VvorkCloudTechnology/Vvork.png",
+                "/images/web/VvorkCloudTechnology/Vvork1.png",
+                "/images/web/VvorkCloudTechnology/Vvork2.png",
+                "/images/web/VvorkCloudTechnology/Vvork3.png",
+                "/images/web/VvorkCloudTechnology/Vvork4.png",
+                "/images/web/VvorkCloudTechnology/Vvork5.png",
+                "/images/web/VvorkCloudTechnology/Vvork6.png",
+                "/images/web/VvorkCloudTechnology/Vvork7.png",
+                "/images/web/VvorkCloudTechnology/Vvork8.png",
+                "/images/web/VvorkCloudTechnology/Vvork9.png",
+                "/images/web/VvorkCloudTechnology/Vvork10.png",
+                "/images/web/VvorkCloudTechnology/Vvork11.png"
+            ]
+        }
+    ]
+}
